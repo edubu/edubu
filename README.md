@@ -1,4 +1,3 @@
-## BIO
 University of Michigan Computer Engineering student with a large interest in algorithmic robotics.
 
 Contact:
