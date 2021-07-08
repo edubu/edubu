@@ -1,4 +1,4 @@
-University of Michigan Computer Engineering student with a large interest in algorithmic robotics.
+University of Michigan Computer Engineering student with an interest in algorithmic robotics.
 
 Contact:
 - Email: edubu@umich.edu
