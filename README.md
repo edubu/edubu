@@ -1,4 +1,4 @@
-University of Michigan Computer Engineering student with an interest in many things including algorithmic robotics, embedded systems, and AI.
+University of Michigan Computer Engineering student with an interest in many things including robotics, full-stack development, AI, mountain biking, and fitness.
 
 Contact:
 - Email: edubu@umich.edu
