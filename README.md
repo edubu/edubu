@@ -6,6 +6,7 @@ Contact:
 
 Checkout my websites:
 - Job Prospect AI: https://jobprospect.ai
+- Portfolio Website: https://elliotdubuque.com
 
 <!---
 edubu/edubu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
