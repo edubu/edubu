@@ -1,4 +1,4 @@
-University of Michigan Computer Engineering student with an interest in many things including robotics, full-stack development, AI, mountain biking, and fitness.
+University of Michigan Computer Engineering graduate with an interest in many things including robotics, full-stack development, AI, mountain biking, and fitness.
 
 Contact:
 - Email: edubu@umich.edu
