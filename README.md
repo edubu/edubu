@@ -5,8 +5,8 @@ Contact:
 - LinkedIn: https://www.linkedin.com/in/elliot-dubuque-5886351b6/
 
 Checkout my websites:
-- Job Prospect AI: https://jobprospect.ai
 - Portfolio Website: https://elliotdubuque.com
+- Hackathon Web App: https://www.visualvibes.life
 
 <!---
 edubu/edubu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
